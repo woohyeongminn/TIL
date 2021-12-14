@@ -57,7 +57,7 @@ OS 및 DB : Windows10, ORACLE, MySQL
 -	Mybatis나 Hibernate를 적용한 Spring 전자정부 프레임워크
 실무 프로젝트 개발(2차)
 -	소프트웨어 공학의 이해와 UML 다이어그램 작성
--	E-R Diagram 작성을 포함한 DB 설계
+-	E-R Diagram 작성을 포함한 DB 설계 
 -	다양한 오픈 소스를 활용한 구현(API, Bootstrap)
 
 
